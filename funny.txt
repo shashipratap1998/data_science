@@ -1,4 +1,1 @@
-Teacher: Why are you late, Frank?
-Frank: Because of the sign.
-Teacher: What sign?
-Frank: The one that says "School Ahead, Go Slow
+I love Python
